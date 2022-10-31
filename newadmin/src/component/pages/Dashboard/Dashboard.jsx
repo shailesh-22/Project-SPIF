@@ -25,6 +25,7 @@ const Dasboard = () => {
           </div> 
           <div>
             <h3>Welcome Administrator. </h3><br />
+
               {/* <p>Your Gateway to be a Champion by Knowing and leveraging you purpose, Passion & potential leading you to the path of maximum effectiveness and fulfilment in your endeavors.</p> */}
          
 
@@ -32,7 +33,7 @@ const Dasboard = () => {
           <div className="container-fluid">
             <div className="row mb-2">
               <div className="col-sm-6">
-                <h1 className="m-0 text-dark">Dash</h1>
+                <h1 className="m-0 text-dark">Dashboard</h1>
               </div>{/* /.col */}
               <div className="col-sm-6">
                 <ol className="breadcrumb float-sm-right">

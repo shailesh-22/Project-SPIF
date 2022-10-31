@@ -18,7 +18,7 @@ import TermsConditions from './component/pages/Assessment/Assessment-Test/Terms 
 import AdminStatement from './component/pages/Assessment/Admin-Statement/AdminStatement';
 import TestResult from './component/pages/Assessment/Assessment-Test/TestCompletionPage/TestResult/TestResult';
 import CertificationPage from './component/pages/Assessment/Assessment-Test/TestCompletionPage/Certification/CertificationPage';
-import Sample from './component/Sample'
+
 function App() {
 
   
@@ -95,10 +95,7 @@ function App() {
             <CertificationPage/>
           </Route>
 
-          <Route path="/sample">
-           <Sample />
-          </Route>
-
+        
 
     </Switch>
 
