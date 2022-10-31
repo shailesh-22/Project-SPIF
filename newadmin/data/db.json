@@ -1,0 +1,735 @@
+{
+    "questions": [
+        {
+            "sStatementID": "STID00000006",
+            "sDescription": "The leading risk factor for suicide is...",
+            "sText": null,
+            "sImage": null,
+            "sVideo": null,
+            "options": [
+                {
+                    "id": 11,
+                    "text": "Untreated major depressive disorder (a medical illness)",
+                    "value": 4,
+                    "isAnswer": true
+                },
+                {
+                    "id": 22,
+                    "text": "Acute and severe stress",
+                    "value": 3,
+                    "isAnswer": false,
+                    "isPrompt": "The leading risk factor for suicide is actually untreated major depressive disorder as hopelessness serves as a major symptom of both depression and suicide"
+                },
+                {
+                    "id": 33,
+                    "text": "Rejection by a loved one",
+                    "value": 2,
+                    "isAnswer": false,
+                    "isPrompt": "The leading risk factor for suicide is actually untreated major depressive disorder as hopelessness serves as a major symptom of both depression and suicide"
+                },
+                {
+                    "id": 44,
+                    "text": "Alcoholism, especially if the person has recently been diagnosed with terminal cancer",
+                    "value": 1,
+                    "isAnswer": false,
+                    "isPrompt": "The leading risk factor for suicide is actually untreated major depressive disorder as hopelessness serves as a major symptom of both depression and suicide"
+                }
+            ],
+            "sInactive": false,
+            "media": false,
+            "order": 1
+        },
+        {
+            "sStatementID": "STID00000002",
+            "sDescription": "If you intercepted a suspected suicidal communication (clue, suspicious statement or threat), which of the following questions should be avoided?",
+            "sText": null,
+            "sImage": null,
+            "sVideo": null,
+            "options": [
+                {
+                    "id": 11,
+                    "text": "You are not thinking of killing yourself, are you?",
+                    "value": 4,
+                    "isAnswer": true
+                },
+                {
+                    "id": 22,
+                    "text": "Are you thinking about suicide?",
+                    "value": 3,
+                    "isAnswer": false,
+                    "isPrompt": "This is actually the correct way to ask someone if they are suicidal. Saying “You are not thinking of killing yourself, are you?” should be avoided as it is a close ended question loaded with judgement. We want to avoid passing any sort of judgement and ask them the suicide question in an open way that permits them to answer freely and truthfully"
+                },
+                {
+                    "id": 33,
+                    "text": "Are you feeling so bad you'd like to go to sleep and never wake up",
+                    "value": 2,
+                    "isAnswer": false,
+                    "isPrompt": "This is actually the correct way to ask someone if they are suicidal. Saying “You are not thinking of killing yourself, are you?” should be avoided as it is a close ended question loaded with judgement. We want to avoid passing any sort of judgement and ask them the suicide question in an open way that permits them to answer freely and truthfully"
+                },
+                {
+                    "id": 44,
+                    "text": "Have you ever wished you were dead",
+                    "value": 1,
+                    "isAnswer": false,
+                    "isPrompt": "This is actually the correct way to ask someone if they are suicidal. Saying “You are not thinking of killing yourself, are you?” should be avoided as it is a close ended question loaded with judgement. We want to avoid passing any sort of judgement and ask them the suicide question in an open way that permits them to answer freely and truthfully"
+                }
+            ],
+            "sInactive": false,
+            "media": false,
+            "order": 2
+        },
+        {
+            "sStatementID": "STID00000003",
+            "sDescription": "The most commonly identified psychological state of those who take their lives has been found to be:",
+            "sText": null,
+            "sImage": null,
+            "sVideo": null,
+            "options": [
+                {
+                    "id": 11,
+                    "text": "Hallucinations",
+                    "value": 5,
+                    "isAnswer": false,
+                    "isPrompt": "Hopelessness is the most commonly identified psychological state of those that complete suicide"
+                },
+                {
+                    "id": 22,
+                    "text": "Sadness",
+                    "value": 4,
+                    "isAnswer": false,
+                    "isPrompt": "Hopelessness is the most commonly identified psychological state of those that complete suicide"
+                },
+                {
+                    "id": 33,
+                    "text": "Anger",                    
+                    "value": 3,
+                    "isAnswer": false,
+                    "isPrompt": "Hopelessness is the most commonly identified psychological state of those that complete suicide"
+                },
+                {
+                    "id": 44,
+                    "text": "Humiliation",                    
+                    "value": 2,
+                    "isAnswer": false,
+                    "isPrompt": "Hopelessness is the most commonly identified psychological state of those that complete suicide"
+                },
+                {
+                    "id": 55,
+                    "text": "Hopelessness",                    
+                    "value": 1,
+                    "isAnswer": true                
+                }
+            ],
+            "sInactive": false,
+            "media": false,
+            "order": 3
+        },
+        {
+            "sStatementID": "STID00000004",
+            "sDescription": "Asking a distressed person if he or she is having thoughts of death or suicide",
+            "sText": null,
+            "sImage": null,
+            "sVideo": null,
+            "options": [
+                {
+                    "id": 11,
+                    "text": "Should never be done, as it may put the idea of suicide in the person's mind",
+                    "value": 4,
+                    "isAnswer": false,
+                    "isPrompt": "This is a myth. Asking someone who is distressed about whether they are having suicidal thoughts can actually provide them with relief as they may feel more understood and able to express themselves freely - this lowers the risk of suicide"
+                },
+                {
+                    "id": 22,
+                    "text": "Should only be done by professionally trained persons.",
+                    "value": 3,
+                    "isAnswer": false,
+                    "isPrompt": "This is a myth. Asking someone who is distressed about whether they are having suicidal thoughts can actually provide them with relief as they may feel more understood and able to express themselves freely - this lowers the risk of suicide"
+                },
+                {
+                    "id": 33,
+                    "text": "May lower the risk of suicide",
+                    "value": 2,
+                    "isAnswer": true
+                },
+                {
+                    "id": 44,
+                    "text": "Should have no effect on the risk for suicide",
+                    "value": 1,
+                    "isAnswer": false,
+                    "isPrompt": "This is a myth. Asking someone who is distressed about whether they are having suicidal thoughts can actually provide them with relief as they may feel more understood and able to express themselves freely - this lowers the risk of suicide"
+                }
+            ],
+            "sInactive": false,
+            "media": false,
+            "order": 4
+        },
+        {
+            "sStatementID": "STID00000005",
+            "sDescription": "As an effective QPR Gatekeeper, I need to:",
+            "sText": null,
+            "sImage": null,
+            "sVideo": null,
+            "options": [
+                {
+                    "id": 11,
+                    "text": "Be able to recognise the warning signs of suicide",
+                    "value": 4,
+                    "isAnswer": false,
+                    "isPrompt": "This is correct, but so are the other options. Being able to recognise the warning signs of suicide, understand what causes these feelings and being able to speak frankly about suicide are all important skills needed to be an effective QPR Gatekeepe"
+                },
+                {
+                    "id": 22,
+                    "text": "Understand what causes most people to become suicidal",
+                    "value": 3,
+                    "isAnswer": false,
+                    "isPrompt": "This is correct, but so are the other options. Being able to recognise the warning signs of suicide, understand what causes these feelings and being able to speak frankly about suicide are all important skills needed to be an effective QPR Gatekeepe"
+                },
+                {
+                    "id": 33,
+                    "text": "Know how to speak frankly about suicide",
+                    "value": 2,
+                    "isAnswer": false,
+                    "isPrompt": "This is correct, but so are the other options. Being able to recognise the warning signs of suicide, understand what causes these feelings and being able to speak frankly about suicide are all important skills needed to be an effective QPR Gatekeepe"
+                },
+                {
+                    "id": 44,
+                    "text": "All of above",
+                    "value": 1,
+                    "isAnswer": true
+                }
+            ],
+            "sInactive": false,
+            "media": false,
+            "order": 5
+        },
+        {
+            "sStatementID": "STID00000001",
+            "sDescription": "People who talk about suicide are only talking and should be ignored, as people who talk about suicide don't do it.",
+            "sText": null,
+            "sImage": null,
+            "options": [
+                {
+                    "id": 11,
+                    "text": "True",
+                    "value": 2,
+                    "isAnswer": false,
+                    "isPrompt": "This is a common misconception. Any mention of suicide should be taken seriously and handled sensitively without judgement."
+                },
+                {
+                    "id": 22,
+                    "text": "False",
+                    "value": 1,
+                    "isAnswer": true
+                }
+            ],
+            "sInactive": false,
+            "media": true,
+            "order": 6
+        },
+        {
+            "sStatementID": "STID00000007",
+            "sDescription": "Since a person in an acute suicidal crisis often feels bad and cannot sleep, 3 to 5 ounces of an alcoholic drink is recommended.",
+            "sText": null,
+            "sImage": null,
+            "options": [
+                {
+                    "id": 11,
+                    "text": "True",
+                    "value": 2,
+                    "isAnswer": false,
+                    "isPrompt": "Sobriety is one of the major protective factors against suicide. Alcohol can impair logical thinking and decrease impulse control. This dangerous combination can cause people to make a decision without thinking and take action very impulsively, resulting in the potential loss of life. Alcohol should hence be avoided as a coping mechanism."
+                },
+                {
+                    "id": 22,
+                    "text": "False",
+                    "value": 1,
+                    "isAnswer": true
+                }
+            ],
+            "sInactive": false,
+            "media": true,
+            "order": 7
+        },
+        {
+            "sStatementID": "STID00000008",
+            "sDescription": "One suicide warning sign may not mean anything and can safly be ignored. However, when three or more suicide warning signs are noted, QPR should be applied as soon as possible.",
+            "sText": null,
+            "sImage": null,
+            "options": [
+                {
+                    "id": 11,
+                    "text": "True",
+                    "value": 2,
+                    "isAnswer": false,
+                    "isPrompt": " Any warning sign, no matter how big or small, should be taken seriously and QPR should be applied."
+                },
+                {
+                    "id": 22,
+                    "text": "False",
+                    "value": 1,
+                    "isAnswer": true
+                }
+            ],
+            "sInactive": false,
+            "media": true,
+            "order": 8
+        },
+        {
+            "sStatementID": "STID00000009",
+            "sDescription": "Which of the following statements is most true?",
+            "sText": null,
+            "sImage": null,
+            "sVideo": null,
+            "options": [
+                {
+                    "id": 11,
+                    "text": "Removal of the means of suicide is an important suicide prevention measure.",
+                    "value": 4,
+                    "isAnswer": true
+                },
+                {
+                    "id": 22,
+                    "text": "Suicide prevention is best left to the experts.",
+                    "value": 3,
+                    "isAnswer": false,
+                    "isPrompt": "Anyone can prevent suicide. Especially those with the right training like Gatekeepers such as yourself."
+                },
+                {
+                    "id": 33,
+                    "text": "Only doctors should discuss suicide with people who may be thinking about ending their own lives.",
+                    "value": 2,
+                    "isAnswer": false,
+                    "isPrompt": "It is important for all of us to be able to discuss suicide openly and honestly to end the stigma attached to it and hence give those struggling a safe space to be able to talk about their feelings."
+                },
+                {
+                    "id": 44,
+                    "text": "Drugs and alcohol play only a minor role in suicidal behaviour",
+                    "value": 1,
+                    "isAnswer": false,
+                    "isPrompt": "Any type of substance use plays a major role in suicide behaviour as sobriety is a major protective factor against suicide."
+                }
+            ],
+            "sInactive": false,
+            "media": false,
+            "order": 9
+        },
+        {
+            "sStatementID": "STID00000010",
+            "sDescription": "Which of the following is not possible warning sign of suicide?",
+            "sText": null,
+            "sImage": null,
+            "sVideo": null,
+            "options": [
+                {
+                    "id": 11,
+                    "text": "Giving away prized possessions",
+                    "value": 4,
+                    "isAnswer": false,
+                    "isPrompt": "This is a warning sign of suicide and should be explored further by applying QPR."
+                },
+                {
+                    "id": 22,
+                    "text": "A sudden interest or disinterest in religion.",
+                    "value": 3,
+                    "isAnswer": false,
+                    "isPrompt": "This is a warning sign of suicide and should be explored further by applying QPR."
+                },
+                {
+                    "id": 33,
+                    "text": "Talking about suicide.",
+                    "value": 2,
+                    "isAnswer": false,
+                    "isPrompt": "This is a warning sign of suicide and should be explored further by applying QPR."
+                },
+                {
+                    "id": 44,
+                    "text": "Spending lots of money one does not have.",
+                    "value": 1,
+                    "isAnswer": true
+                }
+            ],
+            "sInactive": false,
+            "media": false,
+            "order": 10
+        },
+        {
+            "sStatementID": "STID00000011",
+            "sDescription": "When talking with someone who has suicidal thoughts and feelings, its strongly recommended that you be sure to (select the most correct item):",
+            "sText": "",
+            "sImage": null,
+            "sVideo": null,
+            "options": [
+                {
+                    "id": 11,
+                    "text": "Listen carefully to the problem or problems that suicide would solve.",
+                    "value": 4,
+                    "isAnswer": true
+                },
+                {
+                    "id": 22,
+                    "text": "Tell the person in no uncertain terms that suicide is bad idea.",
+                    "value": 3,
+                    "isAnswer": false,
+                    "isPrompt": "We want to make sure that we don't pass judgement or impose our opinions on other people, especially those that are distressed. It's instead important to listen carefully to the problem(s) that suicide would solve so we can understand them better to provide better help."
+                },
+                {
+                    "id": 33,
+                    "text": "Warn the person that they might go to hell if they die by suicide.",
+                    "value": 4,
+                    "isAnswer": false,
+                    "isPrompt": "We want to make sure that we don't pass judgement or impose our opinions on other people, especially those that are distressed. It's instead important to listen carefully to the problem(s) that suicide would solve so we can understand them better to provide better help"
+                },
+                {
+                    "id": 44,
+                    "text": "Explain to them the pain they would cause others if they killed themselves.",
+                    "value": 1,
+                    "isAnswer": false,
+                    "isPrompt":"We want to avoid shifting the focus onto other people or making the distressed person feel guilty for their thoughts and feelings. We instead want to focus on the pain they are experiencing currently and listen carefully to the problem(s) that suicide would solve so we can understand them better to provide better help."
+                }
+            ],
+            "sInactive": false,
+            "media": false,
+            "order": 11
+        },
+        {
+            "sStatementID": "STID00000012",
+            "sDescription": "You are talking to a friend or family member who has been having a lot of personal problems lately and seems to be overwhelmed and hopeless. They say they can't sleep and can't stop feeling blue. During your conversation, the person sighs and says, I just can't go anymore. Life isn't worth living.” The best thing to say is:",
+            "sText": "",
+            "sImage": null,
+            "sVideo": null,
+            "options": [
+                {
+                    "id": 11,
+                    "text": "Look, things will get better, I know they will. They always do.",
+                    "value": 4,
+                    "isAnswer": false,
+                    "isPrompt":"We don't know this for sure and is hence not a promise we can make to the person. Our main goal is to build their trust so it's of vital importance that we're honest with them at every step of the way."
+                },
+                {
+                    "id": 22,
+                    "text": "What you just said worries me, are you thinking about suicide?",
+                    "value": 3,
+                    "isAnswer": true
+                },
+                {
+                    "id": 33,
+                    "text": "You're not thinking about suicide, are you?",
+                    "value": 2,
+                    "isAnswer": false,
+                    "isPrompt":"It's important to ask them about suicide as they've given us a very direct verbal warning sign. However, we want to make sure we ask them this question without judgement in a way that makes them feel able to share their feelings openly."
+                },
+                {
+                    "id": 44,
+                    "text": "You're talking like a crazy person; you know everyone loves you.",
+                    "value": 1,
+                    "isAnswer": false,
+                    "isPrompt":"We want to avoid passing any judgement or name-calling. We also do not want to shift the focus off the person, but instead focus on their pain and what it means when they give us a direct verbal warning sign. It's important to apply QPR at this stage."
+                }
+            ],
+            "sInactive": false,
+            "media": false,
+            "order": 12
+        },
+        {
+            "sStatementID": "STID00000013",
+            "sDescription": "Someone you know admits that they have been thinking about suicide. To Persuade them to get help, very first thing to do is:",
+            "sText": "",
+            "sImage": null,
+            "sVideo": null,
+            "options": [
+                {
+                    "id": 11,
+                    "text": "Tell them you care about them, but that suicide is totally acceptable choice.",
+                    "value": 4,
+                    "isAnswer": false,
+                    "isPrompt":"We don't want to impose our opinions on other people or enable behaviour that can be harmful to the person. It's instead important to encourage them to talk, not pass judgement and listen carefully to the problem(s) suicide would solve."
+                },
+                {
+                    "id": 22,
+                    "text": "Tell them that if they don't get help right away, you will call the police.",
+                    "value": 3,
+                    "isAnswer": false,
+                    "isPrompt":"It is not helpful to give the suicidal person ultimatums of any sort. They already feel like they have no control over their life and this continues to take away their control. It's instead important to encourage them to talk, not pass judgement and listen carefully to the problem(s) suicide would solve"
+                },
+                {
+                    "id": 33,
+                    "text": "Remind them that you love them, but that suicide is a sin.",
+                    "value": 4,
+                    "isAnswer": false,
+                    "isPrompt":"We don't want to impose our opinions on other people. It's instead important to encourage them to talk, not pass judgement and listen carefully to the problem(s) suicide would solve."
+                },
+                {
+                    "id": 44,
+                    "text": "Encourage them to talk, not pass judgement, and listen carefully to the problem(s) suicide would solve.",
+                    "value": 1,
+                    "isAnswer": true
+                }
+            ],
+            "sInactive": false,
+            "media": false,
+            "order": 13
+        },
+        {
+            "sStatementID": "STID00000014",
+            "sDescription": "When Referring someone suicidal for professional help, the best outcome is to:",
+            "sText": null,
+            "sImage": null,
+            "sVideo": null,
+            "options": [
+                {
+                    "id": 11,
+                    "text": "Get a commitment from them to accept help, then make the arrangements to get that help.",
+                    "value": 4,
+                    "isAnswer": false,
+                    "isPrompt":"This is a helpful strategy to implement, however the best outcome is to take the person directly to someone who can help."
+                },
+                {
+                    "id": 22,
+                    "text": "Take the person directly to someone who can help.",
+                    "value": 3,
+                    "isAnswer": true
+                },
+                {
+                    "id": 33,
+                    "text": "Give them referral information and make them promise not to take any action until they've received the help they need.",
+                    "value": 2,
+                    "isAnswer": false,
+                    "isPrompt":"This is a helpful strategy to implement, however the best outcome is to take the person directly to someone who can help."
+                },
+                {
+                    "id": 44,
+                    "text": "Force them to visit the referral of our choosing.",
+                    "value": 1,
+                    "isAnswer": false,
+                    "isPrompt":"It is not helpful to force the suicidal person into a situation they do not feel comfortable with yet. They already feel like they have no control over their life and this continues to take away their control. It's instead important respect their decision and continue to support them in any way you can, and eventually be able to take the person directly to someone who can help them."
+                }
+            ],
+            "sInactive": false,
+            "media": false,
+            "order": 14
+        },
+        {
+            "sStatementID": "STID00000015",
+            "sDescription1": "Spot the signs, save a life",
+            "sText": "In this scenario, one of your friends that you usually meet very often hasn't been coming out anymore. You both usually enjoy a drink or two after work and he's been bailing on plans more often than not. You're aware that he's been having major problems with his marriage and hasn't been happy for a while but this has never stopped him from socialising before. In fact, he was ready to get a divorce and his mood was slowly improving earlier. After repeatedly asking him to join you out for a drink one evening, he lets you know that his wife's physical health has taken a turn for the worse and he's been forced into a position to be her main caregiver. His sister is planning to move closer to him to help out, but he's torn and doesn't feel able to get a divorce anymore. His health insurance doesn't fully cover his wife's treatment and he's been trying to work overtime in an attempt to cover the costs. He's already overworked and was looking forward to some time off to be able to re-discover his passion for travelling after his divorce, but all his plans have been put on an indefinite hold. He's unable to sleep at night and spends the night drinking as it's the only way he's able to cope and get some time alone. His insomnia has been making it difficult for him to focus at work and his manager has been really hard on him for not being able to deliver tasks on time. He mentions that he has access to mental health support through his company's EAP, but you're still worried about him and his well being. One day after work you offer to drop him home and on the car ride back he tells you he doesn't think he can go on anymore - there's nothing left for him to look forward to. He doesn't see the point in living in this world anymore.",
+            "sPointsDesc":"Select all that apply:",
+            "sPointsBrief":"(each correct answer selected earns 0.5 points - total 6 points)",
+            "sImage": null,
+            "sVideo": null,
+            "options": [],
+            "sInactive": false,
+            "media": false,
+            "order": null
+        },
+        {
+            "sStatementID": "STID00000016",
+            "sDescription": "What are the warning signs in the above scenario?",
+            "sText": null,
+            "sImage": null,
+            "sVideo": null,
+            "options": [
+                {
+                    "id": 11,
+                    "text": "He drinks alcohol",
+                    "value": 10,
+                    "isAnswer": false,
+                    "isPrompt":"Warning signs are usually verbal, behavioural or emotional signs that indicate a person may be distressed. Risk factors are usually things in a person’s environment, usually out of their control, that make them vulnerable."
+                },
+                {
+                    "id": 22,
+                    "text": "His alcohol consumption has increased",
+                    "value": 9,
+                    "isAnswer": true
+                },
+                {
+                    "id": 33,
+                    "text": "His wife is ill",
+                    "value": 8,
+                    "isAnswer": false,
+                    "isPrompt":"Warning signs are usually verbal, behavioural or emotional signs that indicate a person may be distressed. Risk factors are usually things in a person’s environment, usually out of their control, that make them vulnerable."
+                },
+                {
+                    "id": 44,
+                    "text": "His boss is hard on him about his performance",
+                    "value": 7,
+                    "isAnswer": false,
+                    "isPrompt":"Warning signs are usually verbal, behavioural or emotional signs that indicate a person may be distressed. Risk factors are usually things in a person’s environment, usually out of their control, that make them vulnerable."
+                },
+                {
+                    "id": 55,
+                    "text": "Financial issues are weighing on him",
+                    "value": 6,
+                    "isAnswer": false,
+                    "isPrompt":"Warning signs are usually verbal, behavioural or emotional signs that indicate a person may be distressed. Risk factors are usually things in a person’s environment, usually out of their control, that make them vulnerable."
+                },
+                {
+                    "id": 66,
+                    "text": "His verbal cues indicate that he’s lost hope ",
+                    "value": 5,
+                    "isAnswer": true
+                },
+                {
+                    "id": 77,
+                    "text": "He has withdrawn socially ",
+                    "value": 4,
+                    "isAnswer": true
+                },
+                {
+                    "id": 88,
+                    "text": "He’s unable to sleep at night",
+                    "value": 3,
+                    "isAnswer": true
+                },
+                {
+                    "id": 99,
+                    "text": "He’s facing marriage problems ",
+                    "value": 2,
+                    "isAnswer": false,
+                    "isPrompt":"Warning signs are usually verbal, behavioural or emotional signs that indicate a person may be distressed. Risk factors are usually things in a person’s environment, usually out of their control, that make them vulnerable."
+                },
+                {
+                    "id": 110,
+                    "text": "All of the above",
+                    "value": 1,
+                    "isAnswer": false,
+                    "isPrompt":"Warning signs are usually verbal, behavioural or emotional signs that indicate a person may be distressed. Risk factors are usually things in a person’s environment, usually out of their control, that make them vulnerable."
+                }
+            ],
+            "sInactive": false,
+            "media": false,
+            "order": 15
+        },
+        {
+            "sStatementID": "STID00000017",
+            "sDescription": "What are the risk factors in the above scenario?",
+            "sText": null,
+            "sImage": null,
+            "sVideo": null,
+            "options": [
+                {
+                    "id": 11,
+                    "text": "He drinks alcohol",
+                    "value": 10,
+                    "isAnswer": true
+                },
+                {
+                    "id": 22,
+                    "text": "His alcohol consumption has increased",
+                    "value": 9,
+                    "isAnswer": false,
+                    "isPrompt":"Warning signs are usually verbal, behavioural or emotional signs that indicate a person may be distressed. Risk factors are usually things in a person’s environment, usually out of their control, that make them vulnerable."
+                },
+                {
+                    "id": 33,
+                    "text": "His wife is ill",
+                    "value": 8,
+                    "isAnswer": true
+                },
+                {
+                    "id": 44,
+                    "text": "His boss is hard on him about his performance",
+                    "value": 7,
+                    "isAnswer": true
+                },
+                {
+                    "id": 55,
+                    "text": "Financial issues are weighing on him",
+                    "value": 6,
+                    "isAnswer": true
+                },
+                {
+                    "id": 66,
+                    "text": "His verbal cues indicate that he’s lost hope ",
+                    "value": 5,
+                    "isAnswer": false,
+                    "isPrompt":"Warning signs are usually verbal, behavioural or emotional signs that indicate a person may be distressed. Risk factors are usually things in a person’s environment, usually out of their control, that make them vulnerable."
+
+                },
+                {
+                    "id": 77,
+                    "text": "He has withdrawn socially ",
+                    "value": 4,
+                    "isAnswer": false,
+                    "isPrompt":"Warning signs are usually verbal, behavioural or emotional signs that indicate a person may be distressed. Risk factors are usually things in a person’s environment, usually out of their control, that make them vulnerable."
+
+                },
+                {
+                    "id": 88,
+                    "text": "He’s unable to sleep at night",
+                    "value": 3,
+                    "isAnswer": false
+                },
+                {
+                    "id": 99,
+                    "text": "He’s facing marriage problems ",
+                    "value": 2,
+                    "isAnswer": true,
+                    "isPrompt":"Warning signs are usually verbal, behavioural or emotional signs that indicate a person may be distressed. Risk factors are usually things in a person’s environment, usually out of their control, that make them vulnerable."
+                },
+                {
+                    "id": 110,
+                    "text": "All of the above",
+                    "value": 1,
+                    "isAnswer": false,
+                    "isPrompt":"Warning signs are usually verbal, behavioural or emotional signs that indicate a person may be distressed. Risk factors are usually things in a person’s environment, usually out of their control, that make them vulnerable."
+                }
+            ],
+            "sInactive": false,
+            "media": false,
+            "order": 16
+        },
+        {
+            "sStatementID": "STID00000017",
+            "sDescription": "What are the protective factors in the above scenario?",
+            "sText": null,
+            "sImage": null,
+            "sVideo": null,
+            "options": [
+                {
+                    "id": 11,
+                    "text": "He drinks alcohol",
+                    "value": 6,
+                    "isAnswer": true
+                },
+                {
+                    "id": 22,
+                    "text": "He’s working more",
+                    "value": 5,
+                    "isAnswer": false,
+                    "isPrompt":"Warning signs are usually verbal, behavioural or emotional signs that indicate a person may be distressed. Risk factors are usually things in a person’s environment, usually out of their control, that make them vulnerable."
+                },
+                {
+                    "id": 33,
+                    "text": "He’s a primary caregiver",
+                    "value": 4,
+                    "isAnswer": false,
+                    "isPrompt":"Warning signs are usually verbal, behavioural or emotional signs that indicate a person may be distressed. Risk factors are usually things in a person’s environment, usually out of their control, that make them vulnerable."
+
+                },
+                {
+                    "id": 44,
+                    "text": "He has sources of social support ",
+                    "value": 3,
+                    "isAnswer": true
+                },
+                {
+                    "id": 55,
+                    "text": "Access to mental health care",
+                    "value": 2,
+                    "isAnswer": true
+                },
+                {
+                    "id": 66,
+                    "text": "All of the above",
+                    "value": 1,
+                    "isAnswer": false,
+                    "isPrompt":"Warning signs are usually verbal, behavioural or emotional signs that indicate a person may be distressed. Risk factors are usually things in a person’s environment, usually out of their control, that make them vulnerable."
+
+                }
+            ],
+            "sInactive": false,
+            "media": false,
+            "order": 17
+        }
+    ]
+}

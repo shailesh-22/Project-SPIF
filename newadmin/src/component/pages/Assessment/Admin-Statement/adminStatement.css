@@ -1,0 +1,47 @@
+.container{
+    display: grid;
+    justify-content: center;
+}
+.admin-statement{
+    background: linear-gradient(to right, rgb(240, 235, 235), rgb(247, 244, 244));
+    padding: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.admin-statement .header{
+    background: linear-gradient(to right, rgba(255, 255, 255, 0.726), rgba(236, 229, 229, 0.267));
+    margin: 10px 0;
+}
+.admin-statement .header h1{
+    color: rgb(45, 45, 150);
+    padding: 10px;
+    margin: 10px 0;
+}
+.admin-statement .question-container{
+    background-color: white;
+    -webkit-box-shadow: 4px 3px 7px 3px rgba(181,172,181,1);
+    -moz-box-shadow: 4px 3px 7px 3px rgba(181,172,181,1);
+    box-shadow: 4px 3px 7px 3px rgba(181,172,181,1);
+    margin: 20px 0;
+    padding: 20px;
+    gap: 30px;
+}
+.admin-statement .question-container .adding-part{
+    gap: 20px;
+    justify-content: start;
+    align-items: center;
+}
+.admin-statement .question-container .adding-part h3{
+    color: rgb(45, 45, 150);
+}
+.admin-statement .question-container .search-field{
+    margin: 25px 0;
+    width: 60%;
+    font-size: 30px;
+}
+.dialog-box{
+    background-color: rgba(240, 248, 255, 0);
+}
+.create-question-header, .create-option-header{
+    color: rgb(45, 45, 150);
+}
+

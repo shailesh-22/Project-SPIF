@@ -1,0 +1,32 @@
+.footer-pagination{
+    position: relative;
+}
+.pagination{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    margin-right: auto;
+    position: absolute;
+    bottom: 20px;
+    left: 0%;
+}
+.pagination button{
+    width: 40px;
+    height: 40px;
+    font-size: 16px;
+    margin: 0 5px;
+    border-radius: 10px;
+    color: rgb(15, 124, 219);
+    border-color: rgb(15, 124, 219) ;
+    background-color: aliceblue;
+}
+.pagination button.active{
+    background-color: rgb(24, 97, 231);
+    color: honeydew;
+    border-color: aliceblue;
+}
+#previous-btn,#next-btn{
+    width: 100px;
+    border-radius: 5px;
+    margin-left: 20px;
+}

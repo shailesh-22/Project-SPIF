@@ -1,0 +1,24 @@
+.main-sidebar{
+    background-color: #00d084 !important;
+    
+}
+.dropdown{
+    margin-left: 13px;
+    /* display: none !important; */
+}
+
+
+#dropdown-menu{
+    position: static ;
+    display: none;
+}
+
+i{
+    font-size: 15px;
+    float:right;
+}
+
+/* [id^=btn]:checked .dropdown {
+    display: block !important;
+} */
+

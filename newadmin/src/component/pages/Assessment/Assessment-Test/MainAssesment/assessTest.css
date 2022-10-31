@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Inline+One&family=Noto+Serif&family=Playfair+Display&family=Roboto&family=Rubik+Dirt&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.assessment-test{
+    /* display: grid; */
+    justify-content: center;
+    padding: 0%;
+}
+.assessment-test .header{
+    background-color: rgba(24, 54, 151, 0.527);
+    color: aliceblue;
+    padding: 10px 0;
+    height: 100px;
+    
+}
+.assessment-test .header h1{
+    text-align: center;
+    font-weight: bolder;
+}
+.assessment-test .header .pageNo-Timer{
+    display: flex;
+    justify-content: space-around;
+}
+/* .question-form{
+    position: relative;
+} */
+.question{
+    /* width: max-content; */
+    text-align: start;
+    opacity: 0.9;
+}
+.question span{
+    padding: 3px 10px;
+    margin-right: 10px;
+    color: rgb(90, 121, 148);
+    text-align: center;
+}
+.question-options{
+    display: grid;
+    grid-template-columns: 30px 1000px;
+    justify-content: start;
+    margin: 30px 70px;
+    font-size: x-large;
+}
+.question-options input{
+    font-size: 10px;
+    margin-right: 10px;
+}
+.questionWithOption{
+    display: grid;
+    width: auto;
+    padding: 20px;
+    margin-top: 30px;
+    -webkit-box-shadow: 3px 3px 5px 4px rgba(153,137,153,1);
+    -moz-box-shadow: 3px 3px 5px 4px rgba(153,137,153,1);
+    box-shadow: 3px 3px 5px 4px rgba(153,137,153,1);
+    height: 700px;
+    position: relative;
+}
+.question-label{
+    opacity: 0.9;
+}
+/* .question-form{
+    position: static;
+} */
+.question-form .btn{
+    position: absolute;
+    width: 200px;
+    font-size: x-large;
+    right: 40px;
+    cursor: pointer;
+    bottom: 20px;
+}
+.question-form .btn:hover{
+    cursor: pointer;
+}
+.multi-q-details p{
+    font-size: larger;
+}
+
+.option-popper-title{
+    display: flex;
+    justify-content: center;
+    color: black;
+}
+.popper-btn{
+    display: flex;
+    justify-content: flex-end;
+    margin: 5px 5px;
+}
